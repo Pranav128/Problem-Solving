@@ -5,20 +5,28 @@ class Solution {
     //    String b = new StringBuffer(a).reverse().toString();
     //    return a.equals(b);
 
-    s = s.toLowerCase().replaceAll("[^a-z0-9]", "");
-        int i = 0;
-        int j = s.length() - 1;
-        while(i <= j) {
-            if (s.charAt(i) != s.charAt(j)) {
-                return false;
-            }
-            i++;
-            j--;
-        }
-        return true;
+    int left = 0, right = s.length() - 1;
+		char l_ch, r_ch;
 
+		while (left < right) {
+			l_ch = s.charAt(left);
+			r_ch = s.charAt(right);
 
+			// System.out.println(String.format("%d : %d, %c : %c", left, right, l_ch, r_ch));
 
+			if (!Character.isLetterOrDigit(l_ch))
+				left++;
+			else if (!Character.isLetterOrDigit(r_ch))
+				right--;
+			else if (Character.toLowerCase(l_ch) == Character.toLowerCase(r_ch)) {
+				left++;
+				right--;
+			} else
+				return false;
+		}
+
+		// isPalindrome
+		return true;
     }
     
 }
