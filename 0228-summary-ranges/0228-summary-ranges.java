@@ -1,5 +1,36 @@
 class Solution {
-    public List<String> summaryRanges(int[] nums) {
+    public List<String> summaryRanges(int[] nums) 
+    {
+        List<String> list = new ArrayList<>();
+        if(nums.length==0)
+        {
+            return list ;
+        }
+        for(int i=0;i<nums.length;i++)
+        {
+            int current = nums[i];
+            while(i<nums.length-1 && nums[i]+1 == nums[i+1])
+            {
+                i++ ;
+            }
+            if(current != nums[i])
+            {
+                list.add(current +"->"+nums[i]);
+            }
+            else
+            {
+                list.add(current+"");
+            }
+        }
+        return list ;   
+
+    } 
+
+
+
+
+
+  /*  public List<String> summaryRanges(int[] nums) {
         ArrayList<String> list = new ArrayList<>();
         if(nums.length ==0 || nums == null)
         {
@@ -31,5 +62,5 @@ class Solution {
         else{
             list.add(si+"->"+ei);
         }
-    }
+    }*/
 }
