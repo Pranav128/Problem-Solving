@@ -2,10 +2,11 @@ class Solution {
     //Kadane's Algorithm
     public int maxSubArray(int[] nums) 
     {
-        int ans = nums[0] , previous = nums[0];
-        for(int i=1 ; i<nums.length;i++)
+        int ans =Integer.MIN_VALUE  , previous = 0;
+        for(int i=0 ; i<nums.length;i++)
         {
-            previous = Math.max(nums[i] , previous+nums[i]);
+            previous +=  nums[i];
+            previous = Math.max(nums[i] , previous);
             ans = Math.max(ans, previous);
         }
         return ans ;
