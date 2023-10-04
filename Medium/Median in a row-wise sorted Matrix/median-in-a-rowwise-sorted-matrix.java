@@ -74,8 +74,8 @@ class Solution {
        return min ;
     }
     */
-    
-    int median(int arr[][], int r, int c) {
+    //gfg
+    int median1(int arr[][], int r, int c) {
        int min = arr[0][0] ;
        int max = arr[0][c-1] ;
        
@@ -124,4 +124,40 @@ class Solution {
        }
        return min ;
     }
+    //striver
+    public static int countSmallerThanMid(int[] A, int mid, int n) {
+    int l = 0, h = n - 1;
+    while (l <= h) {
+      int md = (l + h) >> 1;
+      if (A[md] <= mid) {
+        l = md + 1;
+      } else {
+        h = md - 1;
+      }
+    }
+    return l;
+  }
+   int median(int[][] A, int row, int col) {
+    int low = A[0][0];
+    int high = A[0][col-1];
+     for(int i=1 ;i<row ;i++)
+       {
+           high = Math.max(high, A[i][col-1]);
+           low = Math.min(low , A[i][0]);
+       }
+    int n = row;
+    int m = col;
+    while (low <= high) {
+      int mid = (low + high) >> 1;
+      int cnt = 0;
+      for (int i = 0; i < n; i++) {
+        cnt += countSmallerThanMid(A[i], mid, col);
+      }
+      if (cnt <= (n * m) / 2)
+        low = mid + 1;
+      else
+        high = mid - 1;
+    }
+    return low;
+  }
 }
