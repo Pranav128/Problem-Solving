@@ -43,4 +43,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pranav128/Problem-Solving/tree/master/0042-trapping-rain-water) |
+## Database
+|  |
+| ------- |
+| [3530-odd-and-even-transactions](https://github.com/Pranav128/Problem-Solving/tree/master/3530-odd-and-even-transactions) |
 <!---LeetCode Topics End-->
