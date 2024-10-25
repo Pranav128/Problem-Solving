@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pranav128/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranav128/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Pranav128/Problem-Solving/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
@@ -49,4 +50,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0601-human-traffic-of-stadium](https://github.com/Pranav128/Problem-Solving/tree/master/0601-human-traffic-of-stadium) |
 | [3530-odd-and-even-transactions](https://github.com/Pranav128/Problem-Solving/tree/master/3530-odd-and-even-transactions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Pranav128/Problem-Solving/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
