@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Pranav128/Problem-Solving/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/Pranav128/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0968-beautiful-array](https://github.com/Pranav128/Problem-Solving/tree/master/0968-beautiful-array) |
 ## Divide and Conquer
@@ -55,9 +56,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Pranav128/Problem-Solving/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Pranav128/Problem-Solving/tree/master/0089-gray-code) |
 | [0338-counting-bits](https://github.com/Pranav128/Problem-Solving/tree/master/0338-counting-bits) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Pranav128/Problem-Solving/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Pranav128/Problem-Solving/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
