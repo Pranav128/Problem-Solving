@@ -1,18 +1,11 @@
 class Solution {
-    public int findTheWinner(int n, int k) 
-    {
-        LinkedList<Integer> ll = new LinkedList<>();
-        for(Integer i=1 ;i<=n ;i++)
-        {
-            ll.add(i);
+    public int findTheWinner(int n, int k) {
+        return joseph(n,k)+1;
+    }
+    public static int joseph(int n,int k){
+        if(n==1){
+            return 0;
         }
-        int index = 0;
-        while(ll.size() > 1)
-        {
-            index = (index + k - 1) % ll.size();
-            ll.remove(index);
-        }
-        return ll.peek();
-        
+        return (joseph(n-1,k)+k)%n;
     }
 }
