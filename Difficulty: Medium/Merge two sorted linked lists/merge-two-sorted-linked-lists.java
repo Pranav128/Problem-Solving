@@ -88,52 +88,38 @@ public class Main {
 
 class Solution {
     // Function to merge two sorted linked list.
-    Node sortedMerge(Node head11, Node head22) {
-        int ll1=0, ll2=0;
-        Node head1=head11, head2=head22;
-        while(head1!=null){
-            ll1++;
-            head1=head1.next;
-        }
-        while(head2!=null){
-            ll2++;
-            head2=head2.next;
-        }
-        return sort(head11,ll1,head22,ll2);
-    }
-    public static Node sort(Node head1,int ll1,Node head2,int ll2){
-        if(ll2>ll1){
-            return sort(head2,ll2,head1,ll1);
-        }
-        Node newHead = new Node(-1);
-        Node tail=newHead;
-        while(head1!=null && head2!=null){
-            if(head1.data<=head2.data){
-                Node temp = new Node(head1.data);
-                tail.next=temp;
-                tail=temp;
-                head1=head1.next;
+    Node sortedMerge(Node head1, Node head2) {
+       Node cur1=head1;
+        Node cur2=head2;
+        Node dummy=new Node(0);
+        Node temp=dummy;
+        while(cur1!=null && cur2!=null){
+            if(cur1.data<=cur2.data){
+                Node newNode=new Node(cur1.data);
+                temp.next=newNode;
+                temp=temp.next;
+                cur1=cur1.next;
             }
             else{
-                Node temp = new Node(head2.data);
-                tail.next=temp;
-                tail=temp;
-                head2=head2.next;
+                Node newNode=new Node(cur2.data);
+                temp.next=newNode;
+                temp=temp.next;
+                cur2=cur2.next;
             }
         }
-        while(head1!=null){
-            Node temp = new Node(head1.data);
-            tail.next=temp;
-            tail=temp;
-            head1=head1.next; 
+        while(cur1!=null){
+            Node newNode=new Node(cur1.data);
+                temp.next=newNode;
+                temp=temp.next;
+                cur1=cur1.next;
         }
-        while(head2!=null){
-            Node temp = new Node(head2.data);
-            tail.next=temp;
-            tail=temp;
-            head2=head2.next; 
+        while(cur2!=null){
+            Node newNode=new Node(cur2.data);
+                temp.next=newNode;
+                temp=temp.next;
+                cur2=cur2.next;
         }
-        return newHead.next;
+        return dummy.next;
     }
 }
 
