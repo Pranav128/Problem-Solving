@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Pranav128/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/Pranav128/Problem-Solving/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranav128/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0968-beautiful-array](https://github.com/Pranav128/Problem-Solving/tree/master/0968-beautiful-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranav128/Problem-Solving/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Pranav128/Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Pranav128/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 ## Counting
 |  |
@@ -38,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pranav128/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/Pranav128/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,4 +89,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Pranav128/Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Pranav128/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
