@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0172-factorial-trailing-zeroes](https://github.com/Pranav128/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0968-beautiful-array](https://github.com/Pranav128/Problem-Solving/tree/master/0968-beautiful-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Pranav128/Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Pranav128/Problem-Solving/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Pranav128/Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Pranav128/Problem-Solving/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Linked List
 |  |
 | ------- |
