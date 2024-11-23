@@ -9,7 +9,7 @@
  * }
  */
 class Solution {
-    public ListNode mergeKLists(ListNode[] lists) {
+    public ListNode mergeKLists2(ListNode[] lists) {
         ListNode head=new ListNode(-1);
         ListNode tail=head;
         PriorityQueue<ListNode> pq = new PriorityQueue<>((a,b)->Integer.compare(a.val,b.val));
@@ -25,6 +25,25 @@ class Solution {
             tail=tail.next;
         }
         tail.next=null;
+        return head.next;
+    }
+    public ListNode mergeKLists(ListNode[] lists) {
+        ListNode head=new ListNode(-1);
+        ListNode tail=head;
+        PriorityQueue<ListNode> pq = new PriorityQueue<>((a,b)->Integer.compare(a.val,b.val));
+        for(ListNode curr:lists){
+            if(curr!=null){
+            pq.offer(curr);
+            }
+        }
+        while(!pq.isEmpty()){
+            ListNode node=pq.poll();
+            tail.next=node;
+            tail=tail.next;
+            if(node.next!=null){
+                pq.offer(node.next);
+            }
+        }
         return head.next;
     }
 }
