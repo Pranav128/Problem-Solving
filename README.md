@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Pranav128/Problem-Solving/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranav128/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Pranav128/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [0968-beautiful-array](https://github.com/Pranav128/Problem-Solving/tree/master/0968-beautiful-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Pranav128/Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranav128/Problem-Solving/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Pranav128/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Pranav128/Problem-Solving/tree/master/0143-reorder-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Pranav128/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,11 +115,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Pranav128/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Pranav128/Problem-Solving/tree/master/0147-insertion-sort-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Pranav128/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Pranav128/Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Pranav128/Problem-Solving/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Greedy
@@ -128,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Pranav128/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
+| [0658-find-k-closest-elements](https://github.com/Pranav128/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Pranav128/Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
@@ -141,4 +146,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Pranav128/Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Pranav128/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
