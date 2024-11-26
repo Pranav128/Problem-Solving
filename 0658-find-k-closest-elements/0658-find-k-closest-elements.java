@@ -8,7 +8,7 @@ class Pair{
 }
 class Solution {
 //Approach 1: Two pointer    
-    public List<Integer> findClosestElements3(int[] arr, int k, int x) {
+    public List<Integer> findClosestElements(int[] arr, int k, int x) {
         int n=arr.length;
         int left=0;
         int right=n-1;
@@ -28,7 +28,7 @@ class Solution {
     }
     
 //Approach 2: Priority Queue 
-    public List<Integer> findClosestElements(int[] arr, int k, int x) {
+    public List<Integer> findClosestElements3(int[] arr, int k, int x) {
         int n=arr.length;
         List<Integer>ans=new ArrayList<>();
         PriorityQueue<Pair> pq=new PriorityQueue<>((a,b)->{
