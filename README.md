@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Pranav128/Problem-Solving/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranav128/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/Pranav128/Problem-Solving/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranav128/Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Pranav128/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [0968-beautiful-array](https://github.com/Pranav128/Problem-Solving/tree/master/0968-beautiful-array) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranav128/Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Pranav128/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Pranav128/Problem-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Pranav128/Problem-Solving/tree/master/0147-insertion-sort-list) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranav128/Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Pranav128/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Pranav128/Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
@@ -138,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Pranav128/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Pranav128/Problem-Solving/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranav128/Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Pranav128/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Pranav128/Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Pranav128/Problem-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -165,5 +169,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranav128/Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Pranav128/Problem-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
