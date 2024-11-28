@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranav128/Problem-Solving/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Pranav128/Problem-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Pranav128/Problem-Solving/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/Pranav128/Problem-Solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 ## Hash Table
 |  |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Pranav128/Problem-Solving/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/Pranav128/Problem-Solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/Pranav128/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Pranav128/Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Pranav128/Problem-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2310-minimum-operations-to-halve-array-sum](https://github.com/Pranav128/Problem-Solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 ## Merge Sort
 |  |
 | ------- |
