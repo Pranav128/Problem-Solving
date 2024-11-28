@@ -8,10 +8,9 @@ class Solution {
             arrSum+=i;
             maxHeap.offer(Double.valueOf(i));
         }
-        heapSum=arrSum;
-        while((arrSum-heapSum) < (arrSum/2.0)){
+        while(heapSum < (arrSum/2.0)){
             double toBeAdd = maxHeap.poll()/2.0;
-            heapSum -=toBeAdd;
+            heapSum +=toBeAdd;
             maxHeap.offer(toBeAdd);
             count++;
         }
