@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranav128/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/Pranav128/Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranav128/Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pranav128/Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Pranav128/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [0968-beautiful-array](https://github.com/Pranav128/Problem-Solving/tree/master/0968-beautiful-array) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Pranav128/Problem-Solving/tree/master/0147-insertion-sort-list) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranav128/Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pranav128/Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Pranav128/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Pranav128/Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pranav128/Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Pranav128/Problem-Solving/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Pranav128/Problem-Solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 ## Heap (Priority Queue)
