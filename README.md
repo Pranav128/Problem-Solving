@@ -209,4 +209,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Pranav128/Problem-Solving/tree/master/0525-contiguous-array) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/Pranav128/Problem-Solving/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
