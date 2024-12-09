@@ -16,13 +16,12 @@ class Solution {
     //optimized approach using priority queue in O(nlogk) time
     public void nearlySorted(int[] arr, int k) {
        PriorityQueue<Integer> pq= new PriorityQueue<>();
-       for(int i=0;i<=k;i++){
-           pq.offer(arr[i]);
-       }
        int index=0;
-       for(int i=k+1;i<arr.length;i++){
-           arr[index++]=pq.poll();
+       for(int i=0;i<arr.length;i++){
            pq.offer(arr[i]);
+           if(pq.size()>k){
+            arr[index++]=pq.poll();
+           }
        }
        while(!pq.isEmpty()){
            arr[index++]=pq.poll();
