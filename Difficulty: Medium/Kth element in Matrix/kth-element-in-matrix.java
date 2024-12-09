@@ -33,7 +33,7 @@ System.out.println("~");
 
 class Solution
 {
-	public static int kthSmallest(int[][]arr,int n,int k)
+	public static int kthSmallest2(int[][]arr,int n,int k)
 	{
         PriorityQueue<Integer> pq=new PriorityQueue<>(Collections.reverseOrder());
         for(int i=0;i<n;i++){
@@ -50,5 +50,33 @@ class Solution
             }
         }
         return pq.peek();
+    }
+    public static int kthSmallest(int[][] arr,int n, int k) {
+        int min=arr[0][0], max=arr[n-1][n-1];
+        while(min!=max){
+            int mid = min+(max-min)/2;
+            int count = findMin(arr,mid);
+            if(count<k){
+                min=mid+1;
+            }
+            else{
+                max=mid;
+            }
+        }
+        return min;
+    }
+    public static int findMin(int arr[][],int key){
+        int si=0, ei=arr.length-1;
+        int count=0;
+        while(si<arr.length && ei>=0){
+            if(arr[si][ei] <= key){
+                count += ei+1;
+                si++;
+            }
+            else{
+                ei--;
+            }
+        }
+        return count;
     }
 }
