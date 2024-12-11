@@ -22,7 +22,7 @@ class Solution {
         return temp.next;
     }
     public ListNode deleteMiddle(ListNode head) {
-        if(head.next==null){
+        if(head.next==null || head==null){
             return null;
         }
         ListNode fast=head.next.next;
