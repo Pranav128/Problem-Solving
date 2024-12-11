@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Pranav128/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Pranav128/Problem-Solving/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Pranav128/Problem-Solving/tree/master/0234-palindrome-linked-list) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranav128/Problem-Solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -235,4 +236,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Pranav128/Problem-Solving/tree/master/0295-find-median-from-data-stream) |
+## String
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranav128/Problem-Solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
