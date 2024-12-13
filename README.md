@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pranav128/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Pranav128/Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Pranav128/Problem-Solving/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Pranav128/Problem-Solving/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pranav128/Problem-Solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Pranav128/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/Pranav128/Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Pranav128/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Pranav128/Problem-Solving/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Pranav128/Problem-Solving/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pranav128/Problem-Solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Pranav128/Problem-Solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Pranav128/Problem-Solving/tree/master/0138-copy-list-with-random-pointer) |
