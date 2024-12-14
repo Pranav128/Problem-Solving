@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranav128/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranav128/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Pranav128/Problem-Solving/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Pranav128/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Pranav128/Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Pranav128/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranav128/Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Pranav128/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranav128/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Pranav128/Problem-Solving/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Pranav128/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/Pranav128/Problem-Solving/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pranav128/Problem-Solving/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Pranav128/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 ## Math
 |  |
@@ -169,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0147-insertion-sort-list](https://github.com/Pranav128/Problem-Solving/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Pranav128/Problem-Solving/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Pranav128/Problem-Solving/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Pranav128/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Pranav128/Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranav128/Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pranav128/Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
