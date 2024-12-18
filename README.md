@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pranav128/Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pranav128/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Pranav128/Problem-Solving/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Pranav128/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranav128/Problem-Solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pranav128/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Pranav128/Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pranav128/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -267,5 +270,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pranav128/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
