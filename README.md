@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pranav128/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0089-gray-code](https://github.com/Pranav128/Problem-Solving/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/Pranav128/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0968-beautiful-array](https://github.com/Pranav128/Problem-Solving/tree/master/0968-beautiful-array) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pranav128/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Pranav128/Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Pranav128/Problem-Solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Pranav128/Problem-Solving/tree/master/0025-reverse-nodes-in-k-group) |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pranav128/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pranav128/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Pranav128/Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Pranav128/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
