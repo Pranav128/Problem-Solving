@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/Pranav128/Problem-Solving/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Pranav128/Problem-Solving/tree/master/0089-gray-code) |
+| [0257-binary-tree-paths](https://github.com/Pranav128/Problem-Solving/tree/master/0257-binary-tree-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Pranav128/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranav128/Problem-Solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Depth-First Search
 |  |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranav128/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Pranav128/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Pranav128/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Pranav128/Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0975-range-sum-of-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0975-range-sum-of-bst) |
@@ -284,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranav128/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Pranav128/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Pranav128/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0975-range-sum-of-bst) |
@@ -308,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranav128/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Pranav128/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Pranav128/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0975-range-sum-of-bst) |
