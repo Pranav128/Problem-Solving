@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pranav128/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Pranav128/Problem-Solving/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Pranav128/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0089-gray-code](https://github.com/Pranav128/Problem-Solving/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/Pranav128/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0968-beautiful-array](https://github.com/Pranav128/Problem-Solving/tree/master/0968-beautiful-array) |
