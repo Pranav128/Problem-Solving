@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Pranav128/Problem-Solving/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pranav128/Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Pranav128/Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/Pranav128/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Pranav128/Problem-Solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Pranav128/Problem-Solving/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Pranav128/Problem-Solving/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Pranav128/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Pranav128/Problem-Solving/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Pranav128/Problem-Solving/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Pranav128/Problem-Solving/tree/master/0148-sort-list) |
