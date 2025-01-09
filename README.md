@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Pranav128/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranav128/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Pranav128/Problem-Solving/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Pranav128/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Pranav128/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/Pranav128/Problem-Solving/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Pranav128/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Pranav128/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [1078-remove-outermost-parentheses](https://github.com/Pranav128/Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranav128/Problem-Solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
