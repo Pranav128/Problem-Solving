@@ -290,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Pranav128/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Pranav128/Problem-Solving/tree/master/0257-binary-tree-paths) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Pranav128/Problem-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0652-find-duplicate-subtrees](https://github.com/Pranav128/Problem-Solving/tree/master/0652-find-duplicate-subtrees) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Pranav128/Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Pranav128/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Pranav128/Problem-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0652-find-duplicate-subtrees](https://github.com/Pranav128/Problem-Solving/tree/master/0652-find-duplicate-subtrees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Pranav128/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0226-invert-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Pranav128/Problem-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
@@ -340,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Pranav128/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Pranav128/Problem-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0652-find-duplicate-subtrees](https://github.com/Pranav128/Problem-Solving/tree/master/0652-find-duplicate-subtrees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0784-insert-into-a-binary-search-tree) |
