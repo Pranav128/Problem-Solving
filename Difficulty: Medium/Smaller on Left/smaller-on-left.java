@@ -43,20 +43,14 @@ class Array {
 
 // } Driver Code Ends
 
-
-// User function Template for Java
-
 class Complete {
-
-    // Function for finding maximum and value pair
     public static int[] Smallestonleft(int arr[], int n) {
-        int ans[] = new int[n];
-        TreeSet<Integer> set = new TreeSet<>();
+        int ans[]=new int[n];
+        TreeSet<Integer>set=new TreeSet<>();
         ans[0]=-1;
         set.add(arr[0]);
         for(int i=1;i<n;i++){
-            Integer small = set.lower(arr[i]);
-            ans[i] = (small!=null)?small:-1;
+            ans[i]=set.lower(arr[i])==null?-1:set.lower(arr[i]);
             set.add(arr[i]);
         }
         return ans;
