@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Pranav128/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranav128/Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pranav128/Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0503-next-greater-element-ii](https://github.com/Pranav128/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Pranav128/Problem-Solving/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Pranav128/Problem-Solving/tree/master/0658-find-k-closest-elements) |
@@ -117,12 +118,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranav128/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Pranav128/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Pranav128/Problem-Solving/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/Pranav128/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/Pranav128/Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranav128/Problem-Solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pranav128/Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/Pranav128/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 ## Database
 |  |
 | ------- |
