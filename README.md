@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Pranav128/Problem-Solving/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Pranav128/Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Pranav128/Problem-Solving/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Pranav128/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Pranav128/Problem-Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Pranav128/Problem-Solving/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Pranav128/Problem-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1829-maximum-units-on-a-truck](https://github.com/Pranav128/Problem-Solving/tree/master/1829-maximum-units-on-a-truck) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Pranav128/Problem-Solving/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Pranav128/Problem-Solving/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
 | ------- |
