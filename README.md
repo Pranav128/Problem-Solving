@@ -323,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Pranav128/Problem-Solving/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0975-range-sum-of-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1035-cousins-in-binary-tree) |
 ## Doubly-Linked List
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
@@ -369,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1005-univalued-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
@@ -395,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1035-cousins-in-binary-tree) |
 ## Union Find
