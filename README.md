@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/Pranav128/Problem-Solving/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Pranav128/Problem-Solving/tree/master/0089-gray-code) |
+| [0222-count-complete-tree-nodes](https://github.com/Pranav128/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Pranav128/Problem-Solving/tree/master/0338-counting-bits) |
 ## Backtracking
 |  |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pranav128/Problem-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranav128/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/Pranav128/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranav128/Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pranav128/Problem-Solving/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Pranav128/Problem-Solving/tree/master/0658-find-k-closest-elements) |
@@ -343,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/Pranav128/Problem-Solving/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranav128/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Pranav128/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Pranav128/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Pranav128/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
@@ -389,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/Pranav128/Problem-Solving/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranav128/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Pranav128/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Pranav128/Problem-Solving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Pranav128/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
