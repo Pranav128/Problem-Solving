@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Pranav128/Problem-Solving/tree/master/0169-majority-element) |
 | [0968-beautiful-array](https://github.com/Pranav128/Problem-Solving/tree/master/0968-beautiful-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Pranav128/Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
+| [1285-balance-a-binary-search-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1285-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Pranav128/Problem-Solving/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1285-balance-a-binary-search-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1285-balance-a-binary-search-tree) |
 | [1829-maximum-units-on-a-truck](https://github.com/Pranav128/Problem-Solving/tree/master/1829-maximum-units-on-a-truck) |
 | [2032-largest-odd-number-in-string](https://github.com/Pranav128/Problem-Solving/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Pranav128/Problem-Solving/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-univalued-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1035-cousins-in-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1285-balance-a-binary-search-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -367,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-univalued-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1035-cousins-in-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -415,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-univalued-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1035-cousins-in-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1285-balance-a-binary-search-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -431,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-insert-into-a-binary-search-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Pranav128/Problem-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Pranav128/Problem-Solving/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/Pranav128/Problem-Solving/tree/master/1285-balance-a-binary-search-tree) |
 ## Trie
 |  |
 | ------- |
