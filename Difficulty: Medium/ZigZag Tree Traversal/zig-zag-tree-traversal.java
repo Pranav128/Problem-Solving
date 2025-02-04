@@ -112,20 +112,8 @@ System.out.println("~");
 
 //User function Template for Java
 
-/*class Node
-{
-    int data;
-    Node left,right;
-    Node(int d)
-    {
-        data=d;
-        left=right=null;
-    }
-}*/
-
 class GFG
 {
-    //Function to store the zig zag order traversal of tree in a list.
 	ArrayList<Integer> zigZagTraversal2(Node root){
         ArrayList<Integer>ans=new ArrayList<>();
         if(root==null){
