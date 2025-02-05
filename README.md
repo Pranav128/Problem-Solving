@@ -294,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Pranav128/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/Pranav128/Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Pranav128/Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Pranav128/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Pranav128/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/Pranav128/Problem-Solving/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/Pranav128/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [1078-remove-outermost-parentheses](https://github.com/Pranav128/Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/Pranav128/Problem-Solving/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranav128/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Pranav128/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Pranav128/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Pranav128/Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pranav128/Problem-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -444,4 +447,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Pranav128/Problem-Solving/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Pranav128/Problem-Solving/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
