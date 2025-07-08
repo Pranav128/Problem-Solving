@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0585-investments-in-2016](https://github.com/Pranav128/Problem-Solving/tree/master/0585-investments-in-2016) |
 | [0601-human-traffic-of-stadium](https://github.com/Pranav128/Problem-Solving/tree/master/0601-human-traffic-of-stadium) |
 | [3530-odd-and-even-transactions](https://github.com/Pranav128/Problem-Solving/tree/master/3530-odd-and-even-transactions) |
 ## Bit Manipulation
